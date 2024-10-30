@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  margin-bottom: 1%;
+  box-sizing: border-box;
+  margin-top: 1%;
+}
+.position-center {
+  text-align: center;
+}
+
+.list {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+.color-item-1 {
+  color: #740938;
+}
+.color-item-2 {
+  color: #af1740;
+}
+.color-item-3 {
+  color: #de7c7d;
+}
+.font-size-30 {
+  font-size: 30px;
+}
+table {
+  margin: 0 auto;
+  text-align: center;
+}
+
+td {
+  text-align: center;
+  padding: 10px;
+}
